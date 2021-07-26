@@ -1,0 +1,42 @@
+footer section p{
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 15px;
+}
+.home main article h4{
+    display: inline;
+    background-size: 15px;
+   font-family: 'Roboto', sans-serif;
+}
+footer h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+footer section p{
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 15px;
+}
+footer h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.home footer section i{
+    color:rgb(15, 111, 236);
+    font-size:2rem;
+    }
+footer .iconos{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:20px;
+}
+footer{
+    margin-top:10px;
+}

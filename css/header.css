@@ -1,0 +1,81 @@
+*​{ margin: ​0​px​; 
+    padding: ​0​px​;
+    box-sizing: border-box;
+ }
+ body{
+     background-color: #ebebeb;
+ }
+  header {
+     background-color: #EAC926;
+ }
+  footer{
+     background-color: white;
+ }
+ body .logo{
+    margin: 5px;
+      width:25%;
+      justify-content: flex-start;
+      text-align: left;
+      display:inline-block;
+  }
+ header .buscador{
+      width: 35%;
+      justify-content: flex-end;
+      margin:10px;
+      display:inline-block;
+  }
+   header .buscador i{
+      background-color: white;
+      padding:3px;
+      border: solid 1px #666;
+      border-left: none;
+  }
+ header .buscador input{
+      padding:3px;
+     border: solid 1px #666;
+     border-radius: none;
+  }
+ body .logo{
+    padding: 10px;
+    width: 60%;
+}
+ .cajaB{
+    width: 70%;
+}
+ .buscador{
+    display:inline;
+    padding-top: 25px;
+}
+ .compra{
+    padding-top: 25px;
+}
+ nav ul li{
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 1px;
+   font-family: 'Roboto', sans-serif;
+    color: black;
+    margin-inline: 5px;
+}
+ header nav .nav-o{
+    display: inline;
+    text-align: left;
+}
+ header nav .login{
+    display: inline;
+    text-align: left;
+
+}
+ .cajaD{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+ header nav .menu{
+    display: none;  
+}
+ .cajaC{
+    display: flex;
+    justify-content: space-around;
+    
+    }

@@ -1,0 +1,96 @@
+main .vista{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:#666;
+    background-color:#ebebeb ;
+    margin:15px;
+    text-align:left;
+}
+.home main{
+    width:90%;
+    margin: 0 auto;
+}
+.home main .banner{
+    width: 80%;
+    margin: 0 auto;
+}
+.home main section article{
+   background-color: white;
+   padding-bottom:10px;
+}
+main article img{
+    width: 100%;
+    text-align: center;
+}
+.home main section h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin:5px;
+}
+.home main section article{
+    box-shadow: 0px 0px 10px rgb(100, 100, 100);
+}
+main .container0{
+     flex-direction: column;
+}
+main .caja1{
+     border-top: solid 1px #ebebeb;
+}
+main .caja2{
+     border-top: solid 1px #ebebeb;
+}
+main .caja3{
+     border-top: solid 1px #ebebeb;
+}
+main .caja4{
+     border-top: solid 1px #ebebeb;
+}
+
+.home main article{
+    position: relative;
+}
+.home main section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+article{
+    width: 24%;
+    flex-wrap: wrap;
+}
+main article i{
+    display: block;
+    color:#39b54a;
+    background-color:white;
+    width: 25px;
+    text-align: center;
+    border:1px solid #39b54a ;
+    border-radius: 50%;
+    position: absolute;
+    right: 2px;
+    padding:4px;
+    top: 219px;
+margin:2px;
+}
+main article h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin: 10px;
+    width: 30%;
+}
+main article p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color:#39b54a;
+    margin: 10px;
+    width: 70%;
+}
+
+.home main article .cajaA{
+    display: flex;
+    align-items: stretch;
+ text-align: center;
+}
+.home .cajaB{
+    display: flex;
+}

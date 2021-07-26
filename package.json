@@ -1,0 +1,22 @@
+{
+  "name": "mercado-libre-con-formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisol-c/mercado-libre-con-formulario.git"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisol-c/mercado-libre-con-formulario/issues"
+  },
+  "homepage": "https://github.com/marisol-c/mercado-libre-con-formulario#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
